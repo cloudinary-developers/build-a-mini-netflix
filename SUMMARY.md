@@ -2,13 +2,15 @@
 
 * [About Cloudinary Labs](README.md)
 
-## Lab 1
+## Lab 1 (Or section Title)
 
-* Lab Title
+* Lab or Section Title
   * [Lab One Intro](/lab1/lab1-intro.md "Lab One Intro")
 
-## Lab 2
+## Lab 2 (Or section Title)
 
-* Lab Title
+* Lab or Section Title
   * [Lab Two Intro](/lab2/lab2-intro.md "Lab Two Intro")
+  * [How to Setup Cloudinary](/lab2/lab2-intro.md "How to Setup Cloudinary")
+  
 
