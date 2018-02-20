@@ -1,3 +1,3 @@
-# Introduction to section or lab
+# Introduction to topic
 
-describe the lab or section
+This is where you describe the topic and overview of the steps.
