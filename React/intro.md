@@ -1,6 +1,6 @@
 # The MVP Challenge
 
-An excited entrepreneur just approached you to build a video service. A service where users can quickly upload short videos and share on twitter for their friends to view. Let’s list out the features of this app.
+An excited entrepreneur just approached you to build a video service. A service where users can quickly upload short videos and share on twitter for their friends to view. Let’s flesh out the features of this app.
 
 **Features**
 
