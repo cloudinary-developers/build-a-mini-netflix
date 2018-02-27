@@ -12,5 +12,5 @@
 * Lab or Section Title
   * [Lab Two Intro](/lab2/lab2-intro.md)
   * [How to Setup Cloudinary](/lab2/lab2-intro.md)
-  * [New Page](/lab2/new-page.md "New Page")
+  * [Video Player](/lab2/video-player.md "Video Player")
 
