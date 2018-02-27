@@ -10,5 +10,7 @@ Engineering and Product managers want to beat deadlines for projects daily. CEOs
 
 In this tutorial, we’ll quickly build out a **Mini Netflix** in 10 minutes. In fact, I think we might build it less time.
 
+If you want to check out the final project, visit the [GitHub project](https://github.com/unicodeveloper/miniflix).
+
 
 
