@@ -2,10 +2,10 @@
 
 * [About Cloudinary Labs](README.md)
 
-## Lab 1 \(Or section Title\)
+## Build a Mini Netflix with Cloudinary
 
-* Lab or Section Title
-  * [Lab One Intro](/lab1/lab1-intro.md)
+* React
+  * [Introduction](/React/intro.md)
 
 ## Lab 2 \(Or section Title\)
 
