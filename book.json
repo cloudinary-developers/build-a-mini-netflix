@@ -3,9 +3,13 @@
     "insert-logo-link",
     "html5-video",
     "youtube",
-    "sharing"
+    "sharing",
+    "code"
   ],
   "pluginsConfig": {
+    "code": {
+      "copyButtons": true
+    },
     "theme-default": {
       "showLevel": false,
       "styles": {
