@@ -6,6 +6,7 @@
 
 * [React](build-a-mini-netflix-with-cloudinary/react.md)
   * [Introduction](/React/intro.md)
+  * [Delivering Video](/React/delivering-video.md)
   * [Get Set up](/React/get-set-up.md)
   * [Install Project dependencies](/React/project-dependencies.md)
   * [Style Your App](/React/add-styling.md)
