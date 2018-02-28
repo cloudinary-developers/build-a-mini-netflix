@@ -6,16 +6,20 @@
 
 * [React](build-a-mini-netflix-with-cloudinary/react.md)
   * [Introduction](/React/intro.md)
+  * [Get Set up](/React/get-set-up.md)
   * [Install Project dependencies](/React/project-dependencies.md)
   * [Style Your App](/React/add-styling.md)
   * [Configure Auth Service](/React/incorporate-authservice.md)
-  * [Step up the Navigation Component](/React/step-three.md "3. Set up the Navigation Component")
-  * [Set up the Display Component](/React/step-four.md)
-  * [Set up the Upload Component](/React/step-five.md)
-  * [Set up your Routes](/React/step-six.md)
-  * [Upload Videos](/React/step-seven.md)
-  * [Display Videos](/React/step-eight.md)
-  * [Share on Twitter](/React/step-nine.md)
+  * [Add Callback component](/React/add-callback-component.md "Add Callback component")
+  * [Add Navigation Component](/React/add-navigation-component.md)
+  * [Add Display Component](/React/add-display-component.md)
+  * [Set up Root route](/React/setup-root-route.md)
+  * [Add Upload Component](/React/add-upload-component.md)
+  * [Set up Upload route](/React/set-up-upload-route.md)
+  * [Upload Videos](/React/upload-videos.md)
+  * [Display Videos](/React/display-videos.md)
+  * [Enable Auth](/React/enable-auth.md)
+  * [Share on Twitter](/React/setup-share-widgets.md)
 
 
 

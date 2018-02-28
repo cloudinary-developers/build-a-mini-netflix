@@ -1,6 +1,6 @@
 # Share on Twitter
 
-Go ahead and install the _react twitter widget_ component:
+Go ahead and install the _react twitter widgets_ package via the command line
 
 ```code
 npm install react-twitter-widgets
@@ -29,6 +29,4 @@ Check your app again. It should be similar to this:
 Now, try to tweet.
 
 ![](https://cdn.scotch.io/21401/I3T6C9JRtGY1livEodGQ_image13-2.png)
-
-Simple! It’s really not that hard. The source code for this tutorial is on [GitHub](https://synd.co/2rmm0aR).
 

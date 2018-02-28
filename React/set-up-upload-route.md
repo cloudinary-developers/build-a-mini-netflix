@@ -25,6 +25,8 @@ Add the `/upload` route.
 Your routes should look like the code below.
 
 ```code
+...
+...
 const Root = () => {
   return (
     <div className="container">

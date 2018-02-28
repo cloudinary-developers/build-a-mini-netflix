@@ -42,8 +42,6 @@ class Upload extends Component {
 export default Upload;
 ```
 
-Your app will live-reload in the browser. You should have something like this now:
-
 
 
 
