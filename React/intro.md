@@ -1,17 +1,29 @@
 # The MVP Challenge
 
-An excited entrepreneur just approached you to build a video service. A service where users can quickly upload short videos and share on twitter for their friends to view. Let’s flesh out the features of this app.
+An excited entrepreneur just approached you to build a video service. A service where users can quickly upload short videos and share on twitter for their friends to view. 
 
-**Features**
 
-* Users should be able to sign up and log in.
-* Registered/Logged-in users should be able to upload short videos of about 20 - 30 seconds.
-* Registered/Non-registered users should be able to view all uploaded videos on the platform on a dashboard.
-* Users should be able to share any of the videos on twitter.
+In this code lab, you'll learn how to build a simple video service.
 
-Now, here’s the catch! **T’challa** of **Wakanda** wants to invest in some startups today, so the entrepreneur needs to demo the MVP of the video service in 10 minutes from now.
+**What you'll learn**
 
-![](https://cdn.scotch.io/1/5ns6GRlJTTaSWUzwV8pF_giphy-downsized.gif)
+* How to add user authentication to your app
+* How to make registered users of your app to be able to upload short videos of about 20 - 30 seconds
+* How to make registered users view all the uploaded videos on your app on a dashboard
+* How to make users share any of the videos on your app on twitter
 
-I know you are screaming your heart right now. It’s totally okay to cry and let the world know about your problems and challenges, but after much ado shedding tears, will the app be ready in 8 minutes? Well, sorry - tears can’t build an app!
+**What you should already know**
+
+* Basic HTML, CSS, and JavaScript
+* How to run commands from the commandline
+
+
+**What you'll need**
+
+* Access to the internet and a web browser
+* A [Cloudinary account](https://cloudinary.com/signup)
+* An [Auth0 account](https://auth0.com/signup)
+* [Node.js](https://nodejs.org/en/) (version 6.0 or greater) and [npm](https://www.npmjs.com/get-npm)
+
+
 
