@@ -4,6 +4,6 @@ Cloudinary's video player is a JavaScript-based HTML5 video player bundled with 
 
 The player is fully integrated with Cloudinary's video delivery and manipulation solution and it takes just a few lines of code to embed a player into your web page.
 
-<p data-height="513" data-theme-id="0" data-slug-hash="zReogv" data-default-tab="html,result" data-user="Cloudinary" data-embed-version="2" data-pen-title="Video Player" class="codepen">See the Pen <a href="https://codepen.io/team/Cloudinary/pen/zReogv/">Video Player</a> by Cloudinary (<a href="https://codepen.io/Cloudinary">@Cloudinary</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="513" data-theme-id="0" data-slug-hash="paGoKg" data-default-tab="js,result" data-user="unicodeveloper" data-embed-version="2" data-pen-title="Cloudinary Player" class="codepen">See the Pen <a href="https://codepen.io/unicodeveloper/pen/paGoKg/">Cloudinary Player</a> by Prosper Otemuyiwa (<a href="https://codepen.io/unicodeveloper">@unicodeveloper</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
