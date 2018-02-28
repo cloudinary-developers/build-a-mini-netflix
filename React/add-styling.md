@@ -1,6 +1,6 @@
 # Style Your App
 
-A number of good css frameworks exist out there. However, you will make use of **bootstrap** in this code lab.
+A number of good css frameworks exist out there. However, you will make use of **[bootstrap](https://getbootstrap.com/)** in this code lab.
 
 Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. You can quickly prototype your ideas or build your entire app with the Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
 

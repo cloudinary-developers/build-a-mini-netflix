@@ -1,6 +1,6 @@
 ![](https://cdn.scotch.io/1/lbpFyaWRvCH4O0qfETkQ_build-a-mini-netflix-with-react.png.jpg)
 
-# [Build a Mini Netflix with Cloudinary](https://cloudinary.gitbooks.io/build-a-mini-netflix/content/)
+# [Build a Mini Netflix with React](https://cloudinary.gitbooks.io/build-a-mini-netflix/content/)
 
 In this lab, we will build out a **Mini Netflix** with React and Cloudinary in 10 minutes. In fact, I think we might build it less time. Check out the [demo.](https://miniflix-73250.firebaseapp.com)
 

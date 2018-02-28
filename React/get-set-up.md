@@ -1,4 +1,4 @@
-# Get set up
+# Get setup
 
 This lab requires `React` and `create-react-app`  to build the app. 
 
