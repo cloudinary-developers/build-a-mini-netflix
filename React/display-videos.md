@@ -100,7 +100,7 @@ Furthermore, it allows the user have the best experience possible by choosing th
 
 You should see the list of all videos. It should be similar to this:
 
-![List of Videos on Miniflix](http://res.cloudinary.com/unicodeveloper/image/upload/v1519855629/videodashboard.png)
+![List of Videos on Miniflix](http://res.cloudinary.com/unicodeveloper/image/upload/v1519926669/labs-miniflix/videodashboard.png)
 
 You can also manipulate your videos on the fly, with the help of Cloudinary via the **Transformation** component.
 

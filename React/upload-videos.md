@@ -74,9 +74,9 @@ The `sources` parameter accepts an array of string values defining the tabs to a
 
 Head over to the `/upload` route and try uploading a video.
 
-![](https://cdn.scotch.io/21401/hdXhoRncSRaEmKGSAPd7_image6.png)Upload Widget
+![Upload widget](http://res.cloudinary.com/unicodeveloper/image/upload/v1519925595/labs-miniflix/hdXhoRncSRaEmKGSAPd7_image6.png)Upload Widget
 
-![](https://cdn.scotch.io/21401/ty6p6MF6SuE7KYpVcej5_image12.png)Uploading the video...
+![Uploading the video](http://res.cloudinary.com/unicodeveloper/image/upload/v1519925650/labs-miniflix/ty6p6MF6SuE7KYpVcej5_image12.png)Uploading the video...
 
 It uploads the video straight to Cloudinary and returns a response object about the recently uploaded video that contains so many parameters such as the unique **publicid**, **secureurl**, **url**, **originalfilename**, **thumbnailurl**, **createdate**, **duration** and [so many others](https://synd.co/2s7tfX3).
 
