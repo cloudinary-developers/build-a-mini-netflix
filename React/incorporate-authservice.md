@@ -117,7 +117,7 @@ function isTokenExpired(token) {
 
 In the code above, we invoked the `auth0` library. And we have methods for storing the tokens returned from Auth0, decoding them and getting the expiry date.
 
-> **Note:** Replace the `CLIENT_ID` and `CLIENT_DOMAIN` with the values from your Auth0 dashboard.
+> **Danger** **Note:** Replace the `CLIENT_ID` and `CLIENT_DOMAIN` with the values from your Auth0 dashboard.
 
 
 
