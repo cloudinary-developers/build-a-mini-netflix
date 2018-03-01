@@ -70,7 +70,7 @@ In the **uploadWidget** function, we called the **cloudinary.openUploadWidget** 
 
 The `sources` parameter accepts an array of string values defining the tabs to add to the upload widget, where each source defines a new upload tab within the widget. 
 
-> **Note:** Replace the `cloud_name` & `upload_preset` values with your credentials from the [Cloudinary dashboard](https://synd.co/2tteZFP).
+> **Info** **Note:** Replace the `cloud_name` & `upload_preset` values with your credentials from the [Cloudinary dashboard](https://synd.co/2tteZFP).
 
 Head over to the `/upload` route and try uploading a video.
 
