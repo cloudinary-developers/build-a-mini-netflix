@@ -17,7 +17,7 @@ Go to [**APIs**](https://manage.auth0.com/#/apis) in your Auth0 dashboard and cl
 
 You're now ready to implement Auth0 authentication in your app.
 
-> **Note:** As we want the best security available, we are going to rely on the [Auth0 login page](https://auth0.com/docs/hosted-pages/login). This method consists of redirecting users to a login page hosted by Auth0 that is easily customizable right from the [Dashboard](https://manage.auth0.com/).
+> **Info** **Note:** As we want the best security available, we are going to rely on the [Auth0 login page](https://auth0.com/docs/hosted-pages/login). This method consists of redirecting users to a login page hosted by Auth0 that is easily customizable right from the [Dashboard](https://manage.auth0.com/).
 
 Navigate to your `src` directory and create a `utils` folder. In the `utils` folder, create a file, **AuthService.js** and add this code to it.
 
