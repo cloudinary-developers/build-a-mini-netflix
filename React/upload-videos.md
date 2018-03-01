@@ -7,7 +7,7 @@ You need a storage space for the videos that users will upload.
 <p data-height="513" data-theme-id="0" data-slug-hash="ddaNvZ" data-default-tab="js,result" data-user="Cloudinary" data-embed-version="2" data-pen-title="Upload Widget" class="codepen">See the Pen <a href="https://codepen.io/team/Cloudinary/pen/ddaNvZ/">Upload Widget</a> by Cloudinary (<a href="https://codepen.io/Cloudinary">@Cloudinary</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-**Note:** Head over to [Cloudinary.com](https://synd.co/2sypmf2) and create an account for free.
+> **Note:** Head over to [Cloudinary.com](https://synd.co/2sypmf2) and create an account for free.
 
 ### Integrate Cloudinary Upload Widget
 
@@ -70,7 +70,7 @@ In the **uploadWidget** function, we called the **cloudinary.openUploadWidget** 
 
 The `sources` parameter accepts an array of string values defining the tabs to add to the upload widget, where each source defines a new upload tab within the widget. 
 
-**Note:** Replace the `cloud_name` & `upload_preset` values with your credentials from the [Cloudinary dashboard](https://synd.co/2tteZFP).
+> **Note:** Replace the `cloud_name` & `upload_preset` values with your credentials from the [Cloudinary dashboard](https://synd.co/2tteZFP).
 
 Head over to the `/upload` route and try uploading a video.
 
