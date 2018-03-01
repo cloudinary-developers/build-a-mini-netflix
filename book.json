@@ -4,9 +4,16 @@
     "html5-video",
     "youtube",
     "sharing",
-    "code"
+    "code",
+    "richquotes"
   ],
   "pluginsConfig": {
+    "richquotes": {
+      "star": {
+        "alert": "warning",
+        "picto": "fa-star"
+      }
+    },
     "code": {
       "copyButtons": true
     },

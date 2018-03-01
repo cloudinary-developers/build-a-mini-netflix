@@ -34,7 +34,7 @@ The `axios` package is a HTTP request client that will be used to make HTTP requ
 npm install axios --save
 ```
 
-> **Note:** The `--save` option simply persists the package definition in the `package.json` file.
+> **Success** Note The `--save` option simply persists the package definition in the `package.json` file.
 
 
 
