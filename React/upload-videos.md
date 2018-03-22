@@ -51,7 +51,7 @@ class Upload extends Component {
 
         <div className="col-sm-12">
           <div className="jumbotron text-center">
-            <button onClick={this.uploadWidget} className="btn btn-lg btn-info"> Upload Video</button>
+            <button className="btn btn-lg btn-info" onClick={this.uploadWidget}> Upload Video</button>
           </div>
         </div>
       </div>
