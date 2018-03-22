@@ -52,9 +52,9 @@ class Nav extends Component {
 export default Nav;
 ```
 
-In the **Nav** component, you must have observed that a `css` file was imported. It's to give the navbar some custom styling effects. Furthermore, the `<nav>` component from Bootstrap was used to give the app a basic and functional navbar.
+In the **Nav** component, you must have observed that a `css` file was imported. It's to give the navbar some custom styling effects. Furthermore, the Bootstrap `<nav>` element is used to give the app a basic and functional navbar.
 
-The `isLoggedIn()` function is from the `AuthService`. It basically checks the user's authentication status. If the user is logged in, the `Log out` button is displayed else the `Log In` button is displayed to the user.
+The `isLoggedIn()` function is from the `AuthService`. It basically checks the user's authentication status. If the user is logged in, the `Log out` button is displayed. Otherwise, the `Log In` button is displayed to the user.
 
 In order to see this components work visually, you need to set up routes to render them in the browser.
 
