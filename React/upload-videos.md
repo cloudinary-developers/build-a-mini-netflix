@@ -2,7 +2,7 @@
 
 You need a storage space for the videos that users will upload. 
 
-**Cloudinary** provides cloud storage and an awesome upload widget that allows users to upload videos or any type of file from their local computer, facebook, dropbox, Google Drive and Instagram.
+**Cloudinary** provides cloud storage and an awesome upload widget that allows users to upload videos or any type of file from their local computer, Facebook, Dropbox, Google Drive and Instagram.
 
 <p data-height="513" data-theme-id="0" data-slug-hash="ddaNvZ" data-default-tab="js,result" data-user="Cloudinary" data-embed-version="2" data-pen-title="Upload Widget" class="codepen">See the Pen <a href="https://codepen.io/team/Cloudinary/pen/ddaNvZ/">Upload Widget</a> by Cloudinary (<a href="https://codepen.io/Cloudinary">@Cloudinary</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
