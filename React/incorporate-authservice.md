@@ -10,10 +10,18 @@ You'll need an [Auth0](https://auth0.com) account to manage authentication. [To 
 2. Give your app a name and select **Single Page Web Applications**.
 3. In the **Settings** for your new Auth0 client app, add `http://localhost:3000/callback` to the **Allowed Callback URLs**.
 
+![1.](http://res.cloudinary.com/unicodeveloper/image/upload/v1521709147/newclient.png)
+_Create a new client_
+
 ### Setup an API
 
 Go to [**APIs**](https://manage.auth0.com/#/apis) in your Auth0 dashboard and click on the **Create API** button. Enter a name for the API. Set the **Identifier** to your API endpoint URL. In this example, this is `http://localhost:3001/api`. The **Signing Algorithm** should be `RS256`.
 
+![Create API button](http://res.cloudinary.com/unicodeveloper/image/upload/v1521709936/create_api.png)
+_Create a new API_
+
+![New API Dialog](http://res.cloudinary.com/unicodeveloper/image/upload/v1521709861/newapibox.png)
+_New API Dialog_
 
 You're now ready to implement Auth0 authentication in your app.
 
