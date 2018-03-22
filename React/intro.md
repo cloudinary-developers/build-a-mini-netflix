@@ -8,7 +8,7 @@ In this code lab, you'll learn how to build a simple video service.
 **What you'll learn**
 
 * How to add user authentication to your app
-* How to make registered users of your app to be able to upload short videos of about 20 - 30 seconds
+* How to allow registered users of your app to be able to upload short videos of about 20 - 30 seconds
 * How to make registered users view all the uploaded videos on your app on a dashboard
 * How to make users share any of the videos on your app on twitter
 
