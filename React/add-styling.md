@@ -22,8 +22,9 @@ Open up `src/App.css` and replace it with the styling snippet below:
   margin: 5px 20px 0 0;
 }
 .videos {
-  border: 1px solid red;
-  height:400px;
+  padding: 10px 10px;
+-webkit-box-shadow: 2px 8px 22px 1px rgba(0,0,0,0.06); 
+box-shadow: 2px 8px 22px 1px rgba(0,0,0,0.06);
 }
 ```
 
