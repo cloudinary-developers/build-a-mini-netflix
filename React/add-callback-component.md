@@ -38,5 +38,5 @@ class Callback extends Component {
 export default Callback;
 ```
 
-The `componentDidMount()` function is a React lifecycle hook that is invoked immediately after a component is mounted.
+The `componentDidMount()` function is a React lifecycle hook that is invoked immediately after a component is mounted. Other lifecycle hooks are [well explained in this article](https://reactjs.org/docs/react-component.html)
 
