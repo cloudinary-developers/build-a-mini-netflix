@@ -32,7 +32,7 @@ const CLIENT_ID = 'QHJHV3fmrMOxeJ1Vx2ETDkkClvv8qR7C';
 const CLIENT_DOMAIN = 'kabiyesi.auth0.com';
 const REDIRECT = 'https://localhost:3000/callback';
 const SCOPE = 'full:access';
-const AUDIENCE = 'http://localhost:3000/api';
+const AUDIENCE = 'http://localhost:3001/api';
 
 var auth = new auth0.WebAuth({
   clientID: CLIENT_ID,
