@@ -1,6 +1,6 @@
 # Delivering Video
 
-You can decide to use a plain HTML5 video player to deliver videos to your users or take advantage of advanced JavaScript-based HTML5 video player out there. One of such advanced video players is the Cloudinary's video player.
+You can decide to use a plain HTML5 video player to deliver videos to your users or take advantage of advanced JavaScript-based HTML5 video player out there. One such advanced video player is the Cloudinary's video player.
 
 Cloudinary's video player is a JavaScript-based HTML5 video player bundled with many valuable customization and integration capabilities. If you use this video player to embed your videos, you'll define the source video or the playlist for your player as part of that process, and the video tags with all relevant video formats and other relevant settings are automatically generated. 
 

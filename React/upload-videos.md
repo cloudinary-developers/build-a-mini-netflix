@@ -11,7 +11,7 @@ You need a storage space for the videos that users will upload.
 
 ### Integrate Cloudinary Upload Widget
 
-Open up your `public/index.html` file and include Cloudinary's widget script.
+Open up your `public/index.html` file and include Cloudinary's widget script just immediately after the stylesheet link.
 
 
 ```code

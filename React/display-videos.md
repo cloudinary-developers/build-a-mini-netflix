@@ -29,7 +29,7 @@ class Display extends Component {
   state = { videos: [] };
 
   getVideos() {
-    axios.get('http://res.cloudinary.com/unicodeveloper/video/list/miniflix.json')
+    axios.get('http://res.cloudinary.com/<cloud-name>/video/list/miniflix.json')
           .then(res => {
             console.log(res.data.resources);
             this.setState({ videos: res.data.resources});
@@ -51,7 +51,7 @@ class Display extends Component {
         <hr/>
 
         <div className="col-sm-12">
-          <CloudinaryContext cloudName="unicodeveloper">
+          <CloudinaryContext cloudName="<cloud-name>">
             { videos.map((data, index) => (
                 <div className="col-sm-4" key={index}>
                   <div className="embed-responsive embed-responsive-4by3">
@@ -72,16 +72,20 @@ class Display extends Component {
 export default Display;
 ```
 
+> **Info** **Note:** Replace `<cloud-name>` in the code above with your cloud name from [Cloudinary dashboard.](https://cloudinary.com/console).
+
+
 In the **getVideos **code above, we take advantage of a very slick Cloudinary trick that helps grab all videos with a particular tag, when using just one tag. Check it out again:
 
 ```code
-http://res.cloudinary.com/unicodeveloper/video/list/miniflix.json
+http://res.cloudinary.com/<cloud-name>/video/list/miniflix.json
 ```
+> **Info** **Note:** By default, a new account has the resource lists disabled. Enable it in the [security settings page.](https://cloudinary.com/console/settings/security)
 
 So we if had a tag like `vimeo`, our url will end up with `.../vimeo.json.` So in the code below, we got all the videos and stored in the videos state like so:
 
 ```code
-axios.get('http://res.cloudinary.com/unicodeveloper/video/list/miniflix.json')
+axios.get('http://res.cloudinary.com/<cloud-name>/video/list/miniflix.json')
           .then(res => {
             console.log(res.data.resources);
             this.setState({ videos: res.data.resources});
