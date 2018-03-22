@@ -24,7 +24,7 @@ Now, add this piece of code just after the div that shows the time the video was
 
 Check your app again. It should be similar to this:
 
-![Latest videos on Miniflix](http://res.cloudinary.com/unicodeveloper/image/upload/v1519925599/labs-miniflix/4En2QtTRXW5YVkoTDF90_image9.png)
+![Latest videos on Miniflix](http://res.cloudinary.com/unicodeveloper/image/upload/v1521750660/loggedinanduploaded.png)
 
 Now, try to tweet.
        
