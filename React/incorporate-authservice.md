@@ -28,8 +28,8 @@ import auth0 from 'auth0-js';
 const ID_TOKEN_KEY = 'id_token';
 const ACCESS_TOKEN_KEY = 'access_token';
 
-const CLIENT_ID = 'QHJHV3fmrMOxeJ1Vx2ETDkkClvv8qR7C';
-const CLIENT_DOMAIN = 'kabiyesi.auth0.com';
+const CLIENT_ID = 'xxxxxxxxxxxxxx';
+const CLIENT_DOMAIN = 'xxxxxxxxxx';
 const REDIRECT = 'https://localhost:3000/callback';
 const SCOPE = 'full:access';
 const AUDIENCE = 'http://localhost:3001/api';
