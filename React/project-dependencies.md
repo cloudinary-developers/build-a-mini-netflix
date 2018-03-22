@@ -15,7 +15,7 @@ npm install auth0-js --save
 The `react-router` package will be used for routing in your app.
 
 ```code
-npm install react-router@3.0.0 --save
+npm install react-router@3.2.0 --save
 ```
 
 ### jwt-decode
