@@ -38,5 +38,7 @@ class Callback extends Component {
 export default Callback;
 ```
 
+The `setAccessToken()` and `setIdToken()` methods are called in the `componentDidMount()` lifecycle hook to ensure both tokens from the Auth0 server are stored once the Callback component is mounted.
+
 The `componentDidMount()` function is a React lifecycle hook that is invoked immediately after a component is mounted. Other lifecycle hooks are [well explained in this article](https://reactjs.org/docs/react-component.html)
 
