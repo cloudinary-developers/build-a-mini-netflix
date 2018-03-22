@@ -1,6 +1,6 @@
 # Set up Root route
 
-In order to see how your app works, you need to set up some routes.
+In order to see how your app works with these components, you need to set up some routes.
 
 Open up your `src/index.js`. You'll define the routes here.
 
